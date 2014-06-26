@@ -1,5 +1,5 @@
 
-PHP中匿名函数如何使用外部变量。
+PHP中匿名函数如何使用外部变量。  
 
 $col = $orderArr[0];
 $order = $orderArr[1]=='asc'?1:-1;
